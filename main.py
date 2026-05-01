@@ -1,8 +1,3 @@
-# app id
-# 1499713605443129384
-
-# public key
-# 52ab2aa75e5676c40923e8473f9565468dc623f2121a6b4ffd0dc757092c3884
 
 import discord
 from dotenv import load_dotenv
